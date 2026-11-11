@@ -37,7 +37,15 @@ The interaction model covers three representative tasks: **adding a friend, publ
 
 ### 2. Sketches and low-fidelity wireframes
 
-I began with paper sketches and translated the flows into grayscale Figma wireframes. This stage focused on screen hierarchy, navigation and functionality before selecting visual styles.
+I started by sketching three key user flows on paper: adding a friend, publishing a survey and creating a project. These initial sketches helped me explore screen layouts and navigation before moving to digital design.
+
+**Hand-drawn sketches**
+
+![Hand-drawn wireframes](screenshots/HanddrawnWireframes.png)
+
+I then translated these concepts into grayscale wireframes in Figma, focusing on screen hierarchy, navigation and functionality before introducing visual styles.
+
+**Low-fidelity Figma wireframes**
 
 ![Low-fidelity wireframes](screenshots/Wireframes.png)
 
